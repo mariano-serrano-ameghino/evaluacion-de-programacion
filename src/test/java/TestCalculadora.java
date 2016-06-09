@@ -6,7 +6,7 @@ import org.junit.Test;
  */
 public class  TestCalculadora {
 
-/*
+
 
     @Test
     public void crearCalculadora(){
@@ -54,8 +54,4 @@ public class  TestCalculadora {
         Assert.assertEquals(12, calculadora.resultado);
 
     }
-
-*/
-
-
 }
