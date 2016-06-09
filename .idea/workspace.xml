@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f22791cc-65cd-468f-a515-f193ef9941b3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestCalculadora.java" afterPath="$PROJECT_DIR$/src/test/java/TestCalculadora.java" />
     </list>
     <ignored path="1.0.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCalculadora.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.15652174">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -69,6 +70,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/TestCuadrilatero.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestPunto.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCalculadora.java" />
       </list>
     </option>
   </component>
@@ -284,7 +286,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465495246151</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Comentados los tests para que no haya errores">
+      <created>1465495286088</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1465495286088</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -346,7 +354,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCalculadora.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15652174">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>
